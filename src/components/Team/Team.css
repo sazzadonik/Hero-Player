@@ -1,0 +1,17 @@
+.NewTeam{
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 50px;
+    box-shadow: 5px 5px 10px #000;
+}
+table{
+    width: 100%;
+}
+table tr{
+    border-bottom: 1px solid black;
+    line-height: 40px;
+    
+}
+tr:last-child{
+    border-bottom: none;
+}

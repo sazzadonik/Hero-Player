@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Shakib Al Hasan",
+        "team": "Kolkata Knigt Riders",
+        "img": "https://t3.gstatic.com/images?q=tbn:ANd9GcSnn27coD_1wIFzntVYPE0JLeC3nuRD0TBfat56lur6gQbHFdUo0iqfQUj6sUHv",
+        "salary": "1000000000"
+    },
+    {
+        "id": 2,
+        "name": "Mashrafe Mortaza",
+        "team": "Comilla Victorians",
+        "img": "https://t3.gstatic.com/images?q=tbn:ANd9GcTUita0Dueq42YemMDjR5N_-zqVnytWS_Yh2uFatPvHCDq2H0_9XuIT0nRxVN-T",
+        "salary": "500000000"
+    },
+    {
+        "id": 3,
+        "name": "Tamim Iqbal",
+        "team": "Chattogram Challengers",
+        "img": "https://celebswikis.biz/wp-content/uploads/2018/04/Tamim-Iqbal.jpg",
+        "salary": "300000000"
+    },
+    {
+        "id": 4,
+        "name": "Mahmudullah",
+        "team": "Barisal Bulls",
+        "img": "https://t3.gstatic.com/images?q=tbn:ANd9GcQCc4R-JU_z5fPf-0LeFWNDwiF88Ru1_5YiwFM4HC4mN5T8tLNAbtOiF7Y5WggT",
+        "salary": "800000000"
+    },
+    {
+        "id": 5,
+        "name": "Mushfiqur Rahim",
+        "team": "Sylhet Royals",
+        "img": "https://t2.gstatic.com/images?q=tbn:ANd9GcTfcZjB4G7brLc0WCJTrGZg_zLhZmAvbKaflM7PLyprELSo7Zfgx4Ltn8Oa4S_i",
+        "salary": "300000000"
+    },
+    {
+        "id": 6,
+        "name": "Abdur Razzak",
+        "team": "Rangpur Rangers",
+        "img": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-477551705_Fotor-e1520257882788.jpg",
+        "salary": "900000000"
+    },
+    {
+        "id": 7,
+        "name": "Soumya Sarkar",
+        "team": "Rajshahi Royals",
+        "img": "https://t3.gstatic.com/images?q=tbn:ANd9GcSXwoAfcRAS1QX7mI7XqQfUEqZPnqcH8P_qHzglv4qpTYBVVkEpR92N91noMQlg",
+        "salary": "600000000"
+    },
+    {
+        "id": 8,
+        "name": "Sabbir Rahman",
+        "team": "Kabul Eagles",
+        "img": "https://t0.gstatic.com/images?q=tbn:ANd9GcRYFNEY6NVwpX4RR7v3GzV6q5mr_uvz6FUSWyBBlqRvzDcgjOqgKZMtjb22q5S_",
+        "salary": "750000000"
+    },
+    {
+        "id": 9,
+        "name": "Mehidy Hasan",
+        "team": "Trinbago Knight Riders",
+        "img": "https://t0.gstatic.com/images?q=tbn:ANd9GcQw5ZUiF99pdSDIVStr0iERKz1hPs_8dZjmmomTd1BQn7ewBTFU0Z2_q-z1yAEK",
+        "salary": "600000000"
+    },
+    {
+        "id": 10,
+        "name": "Mustafizur Rahman",
+        "team": "Rajasthan Royals",
+        "img": "https://t0.gstatic.com/images?q=tbn:ANd9GcTl3uN5WsH81o0UU0iP7KS53zDvkZlX4IEsrCChcZJTunDJX_978F-u6Uf5KzJu",
+        "salary": "8500000000"
+    },
+    {
+        "id": 11,
+        "name": "Taskin Ahmed",
+        "team": "Kandahar Knights",
+        "img": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893434-e1520608434902.jpg",
+        "salary": "5500000000"
+    },
+    {
+        "id": 12,
+        "name": "Chris Gayle",
+        "team": "Royal Challengers Bangalore",
+        "img": "https://st3.cricketcountry.com/wp-content/uploads/cricket/20140522042341.jpeg",
+        "salary": "200000000"
+    },
+    {
+        "id": 13,
+        "name": "Kieron Pollard",
+        "team": "Dhaka Gladiators",
+        "img": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-169846755-e1522243467713.jpg",
+        "salary": "330000000"
+    },
+    {
+        "id": 14,
+        "name": "Brett Lee",
+        "team": "Kolkata Knight Riders",
+        "img": "https://files.probharat.com/net-worth/images/brett-lee-98.jpg",
+        "salary": "950000000"
+    },
+    {
+        "id": 15,
+        "name": "Daniel Vettori",
+        "team": "Delhi Daredevils",
+        "img": "https://www.cricmatez.com/wp-content/uploads/2015/04/01vettori.jpg",
+        "salary": "72000000"
+    }
+]
